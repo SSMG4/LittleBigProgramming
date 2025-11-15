@@ -1,2 +1,301 @@
 # LittleBigProgramming
-A neat README containing everything about programming languages
+
+A playful encyclopedia of programming languages, formats, and related tech with detailed info as well as full courses included for free! (title inspired by LittleBigPlanet™.)
+
+---
+
+## Summary
+
+- [LittleBigProgramming](#littlebigprogramming)
+  - [Summary](#summary)
+  - [Languages](#languages)
+    - [A](#a)
+    - [B](#b)
+    - [C](#c)
+    - [D](#d)
+    - [E](#e)
+    - [F](#f)
+    - [G](#g)
+    - [H](#h)
+    - [I](#i)
+    - [J](#j)
+    - [K](#k)
+    - [L](#l)
+    - [M](#m)
+    - [N](#n)
+    - [O](#o)
+    - [P](#p)
+    - [Q](#q)
+    - [R](#r)
+    - [S](#s)
+    - [T](#t)
+    - [U](#u)
+    - [V](#v)
+    - [W](#w)
+    - [X](#x)
+    - [Y](#y)
+    - [Z](#z)
+  - [Bonus](#bonus)
+
+---
+
+## Languages
+
+### A
+
+| Logo | Name | Description | Full Course | License | Badge | Year | Paradigm |
+|------|------|-------------|-------------|---------|-------|------|----------|
+| <a href="https://ada-lang.io/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/0/0a/Ada_logo.png" width="65" height="65" alt="Ada"></a> | Ada | Safe, strongly typed language for mission‑critical systems. | [AdaCore University](https://learn.adacore.com/) | GPL (GNAT), ISO | ![Badge](https://img.shields.io/badge/Ada-Safety--critical-blue) | 1983 | Imperative, OO |
+| <a href="https://www.algol60.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/ALGOL_logo.png" width="65" height="65" alt="ALGOL"></a> | ALGOL | Historic foundation for many modern languages. | [ALGOL Resources (SPRC)](https://www.softwarepreservation.org/projects/ALGOL) | None | ![Badge](https://img.shields.io/badge/ALGOL-Historic-lightgrey) | 1958 | Imperative |
+| <a href="https://aws.amazon.com/architecture/whitepapers/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Gnu-logo.svg" width="65" height="65" alt="Awk"></a> | Awk | Text scanning and reporting on Unix streams. | [Effective Awk Programming (GNU)](https://www.gnu.org/software/awk/manual/) | GPL | ![Badge](https://img.shields.io/badge/Awk-Text%20processing-green) | 1977 | Scripting |
+| <a href="https://www.apple.com/swift/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/9/9d/Swift_logo.svg" width="65" height="65" alt="Swift"></a> | Apple Swift | Modern language for iOS and macOS apps. | [Hacking with Swift (100 Days)](https://www.hackingwithswift.com/100) | Apache 2.0 | ![Badge](https://img.shields.io/badge/Swift-iOS%2FmacOS-orange) | 2014 | Multi‑paradigm |
+| <a href="https://www.arduino.cc/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Arduino_Logo.svg" width="65" height="65" alt="Arduino"></a> | Arduino (C/C++) | Simplified C/C++ for microcontrollers. | [Arduino Courses (Official)](https://www.arduino.cc/education) | GPL/LGPL (cores) | ![Badge](https://img.shields.io/badge/Arduino-Embedded-teal) | 2005 | Procedural |
+
+---
+
+### B
+
+| Logo | Name | Description | Full Course | License | Badge | Year | Paradigm |
+|------|------|-------------|-------------|---------|-------|------|----------|
+| <a href="https://www.gnu.org/software/bash/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Gnu-logo.svg" width="65" height="65" alt="Bash"></a> | Bash | Ubiquitous Unix shell scripting. | [Bash Guide + Advanced](https://guide.bash.academy/) | GPL | ![Badge](https://img.shields.io/badge/Bash-Shell-blue) | 1989 | Scripting |
+| <a href="https://www.eclipse.org/birt/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/0/00/Be_logo.svg" width="65" height="65" alt="BCPL"></a> | BCPL | Predecessor to C and systems tools. | [BCPL Book (Martin Richards)](https://www.cl.cam.ac.uk/~mr10/BCPL.html) | Custom | ![Badge](https://img.shields.io/badge/BCPL-Precursor-lightgrey) | 1966 | Procedural |
+| <a href="https://www.ruby-lang.org/en/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Ruby_logo.svg" width="65" height="65" alt="Boo"></a> | Boo | Statically typed, Python‑like on .NET. | [Boo Docs + Examples](http://boo-lang.org/) | BSD | ![Badge](https://img.shields.io/badge/Boo-.NET%20scripting-purple) | 2003 | OO, Static |
+
+---
+
+### C
+
+| Logo | Name | Description | Full Course | License | Badge | Year | Paradigm |
+|------|------|-------------|-------------|---------|-------|------|----------|
+| <a href="https://www.iso.org/standard/74528.html" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" width="65" height="65" alt="C"></a> | C | Classic systems language with direct memory control. | [C Programming (K&R + Modern C)](https://www.learn-c.org/) | ISO | ![Badge](https://img.shields.io/badge/C-Systems-blue) | 1972 | Procedural |
+| <a href="https://isocpp.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" width="65" height="65" alt="C++"></a> | C++ | High‑performance, low‑level control with abstraction. | [C++ Core Guidelines + Tour](https://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines) | ISO | ![Badge](https://img.shields.io/badge/C++-Performance-orange) | 1985 | Multi‑paradigm |
+| <a href="https://learn.microsoft.com/dotnet/csharp/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png" width="65" height="65" alt="C#"></a> | C# | Productive language for .NET applications. | [Microsoft Learn: C# Path](https://learn.microsoft.com/dotnet/csharp/) | MIT (Roslyn) | ![Badge](https://img.shields.io/badge/C%23-.NET-purple) | 2000 | OO |
+| <a href="https://www.clojure.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/5/5d/Clojure_logo.svg" width="65" height="65" alt="Clojure"></a> | Clojure | Functional Lisp on the JVM with immutability. | [Clojure for the Brave and True](https://www.braveclojure.com/) | EPL | ![Badge](https://img.shields.io/badge/Clojure-Functional-green) | 2007 | Functional |
+| <a href="https://www.cobol.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/0/0f/COBOL_logo.svg" width="65" height="65" alt="COBOL"></a> | COBOL | Legacy enterprise language for business systems. | [Open Mainframe COBOL Course](https://github.com/openmainframeproject/cobol-programming-course) | Various | ![Badge](https://img.shields.io/badge/COBOL-Legacy-brown) | 1959 | Procedural |
+| <a href="https://www.crystal-lang.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/7/7c/Crystal_logo.png" width="65" height="65" alt="Crystal"></a> | Crystal | Fast, Ruby‑like compiled language. | [Crystal by Example + Docs](https://crystal-lang.org/reference/) | Apache 2.0 | ![Badge](https://img.shields.io/badge/Crystal-Compiled-teal) | 2014 | OO |
+
+---
+
+### D
+
+| Logo | Name | Description | Full Course | License | Badge | Year | Paradigm |
+|------|------|-------------|-------------|---------|-------|------|----------|
+| <a href="https://dlang.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/3/36/D_Programming_Language_logo.svg" width="65" height="65" alt="D"></a> | D | Systems language with modern conveniences. | [D Tutorials (Official)](https://dlang.org/learn.html) | BSL | ![Badge](https://img.shields.io/badge/D-Systems-red) | 2001 | Multi‑paradigm |
+| <a href="https://dart.dev/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/f/f5/Dart_programming_language_logo.svg" width="65" height="65" alt="Dart"></a> | Dart | Client‑optimized language for Flutter apps. | [Flutter & Dart Course (App Brewery)](https://www.appbrewery.co/p/flutter) | BSD | ![Badge](https://img.shields.io/badge/Dart-Flutter-cyan) | 2011 | OO |
+| <a href="https://www.djangoproject.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/8/86/Distribution_logo_django.svg" width="65" height="65" alt="Delphi"></a> | Delphi (Object Pascal) | Rapid app development with Object Pascal. | [Delphi Academy + Docs (Embarcadero)](https://www.embarcadero.com/learn) | Proprietary | ![Badge](https://img.shields.io/badge/Delphi-RAD-red) | 1995 | OO |
+| <a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/docker/awesome-compose/master/logo.png" width="65" height="65" alt="Dockerfile"></a> | Dockerfile | Declarative container build specification. | [Docker Curriculum](https://docker-curriculum.com/) | Apache 2.0 | ![Badge](https://img.shields.io/badge/Dockerfile-Containers-blue) | 2013 | Declarative |
+
+---
+
+### E
+
+| Logo | Name | Description | Full Course | License | Badge | Year | Paradigm |
+|------|------|-------------|-------------|---------|-------|------|----------|
+| <a href="https://elixir-lang.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Elixir_logo.png" width="65" height="65" alt="Elixir"></a> | Elixir | Scalable, fault‑tolerant language on the BEAM VM. | [Elixir School (Full Curriculum)](https://elixirschool.com/en) | Apache 2.0 | ![Badge](https://img.shields.io/badge/Elixir-Scalable-purple) | 2011 | Functional |
+| <a href="https://www.erlang.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Gnu-logo.svg" width="65" height="65" alt="Erlang"></a> | Erlang | Concurrency and reliability for telecom and messaging. | [Erlang/OTP Docs + Learn You Some Erlang](https://learnyousomeerlang.com/) | Apache 2.0 | ![Badge](https://img.shields.io/badge/Erlang-Concurrency-red) | 1986 | Functional |
+| <a href="https://eiffel.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/4/43/Eiffel_logo.svg" width="65" height="65" alt="Eiffel"></a> | Eiffel | Contract‑based object‑oriented design. | [Touch of Class (Book + Materials)](https://se.inf.ethz.ch/teaching/2012_Fall/Touch_of_Class/) | GPL (SmartEiffel) | ![Badge](https://img.shields.io/badge/Eiffel-Design%20by%20contract-blue) | 1985 | OO |
+| <a href="https://www.embedded.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Embedded_logo.svg" width="65" height="65" alt="Embedded C"></a> | Embedded C | C tailored to microcontroller constraints. | [Embedded Systems Course (Coursera, UT Austin)](https://www.coursera.org/specializations/embedded-systems) | ISO | ![Badge](https://img.shields.io/badge/Embedded%20C-MCU-teal) | 1990s | Procedural |
+
+---
+
+### F
+
+| Logo | Name | Description | Full Course | License | Badge | Year | Paradigm |
+|------|------|-------------|-------------|---------|-------|------|----------|
+| <a href="https://fsharp.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/3/3b/F_Sharp_logo.svg" width="65" height="65" alt="F#"></a> | F# | Functional‑first language on .NET. | [F# for Fun and Profit (Complete Guide)](https://fsharpforfunandprofit.com/) | MIT | ![Badge](https://img.shields.io/badge/F%23-Functional-green) | 2005 | Functional |
+| <a href="https://fortran-lang.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/b/b8/Fortran_logo.svg" width="65" height="65" alt="Fortran"></a> | Fortran | High‑performance numeric computing. | [Modern Fortran (Complete Book)](https://www.fortran90.org/src/bascintro.html) | ISO | ![Badge](https://img.shields.io/badge/Fortran-Scientific-navy) | 1957 | Procedural |
+| <a href="https://fox-toolkit.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Fox_logo.svg" width="65" height="65" alt="FoxPro"></a> | FoxPro | Legacy database and xBase lineage. | [xBase and Visual FoxPro Resources](https://www.visualfoxpro.com/) | Proprietary | ![Badge](https://img.shields.io/badge/FoxPro-Legacy-brown) | 1984 | Procedural |
+| <a href="https://flutter.dev/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/1/17/Google-flutter-logo.png" width="65" height="65" alt="Flutter/Dart"></a> | Flutter/Dart | Cross‑platform UI toolkit powered by Dart. | [Flutter Official Codelabs](https://docs.flutter.dev/codelabs) | BSD | ![Badge](https://img.shields.io/badge/Flutter-Cross--platform-cyan) | 2017 | Declarative UI |
+
+---
+
+### G
+
+| Logo | Name | Description | Full Course | License | Badge | Year | Paradigm |
+|------|------|-------------|-------------|---------|-------|------|----------|
+| <a href="https://go.dev/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Go_Logo_Blue.svg" width="65" height="65" alt="Go"></a> | Go | Fast, concurrent language for cloud and backend. | [Go Tour (Official)](https://go.dev/tour/) | BSD | ![Badge](https://img.shields.io/badge/Go-Cloud-blue) | 2009 | Concurrent |
+| <a href="https://godotengine.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Godot_icon.svg" width="65" height="65" alt="GDScript"></a> | GDScript | Python‑like scripting for Godot engine. | [Godot Docs: GDScript Basics](https://docs.godotengine.org/en/stable/getting_started/scripting/gdscript/) | MIT | ![Badge](https://img.shields.io/badge/GDScript-GameDev-purple) | 2014 | Scripting |
+| <a href="https://www.yoyogames.com/en/gamemaker" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/GameMaker_Studio_2_Logo.png" width="65" height="65" alt="GML"></a> | GameMaker Language (GML) | Lightweight scripting for GameMaker Studio. | [GameMaker Docs](https://manual.yoyogames.com/) | Proprietary | ![Badge](https://img.shields.io/badge/GML-GameDev-orange) | 1999 | Scripting |
+| <a href="https://groovy-lang.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/3/36/Groovy-logo.svg" width="65" height="65" alt="Groovy"></a> | Groovy | Dynamic JVM scripting language. | [Groovy in Action (Book)](https://groovy-lang.org/documentation.html) | Apache 2.0 | ![Badge](https://img.shields.io/badge/Groovy-JVM-green) | 2003 | Dynamic |
+
+---
+
+### H
+
+| Logo | Name | Description | Full Course | License | Badge | Year | Paradigm |
+|------|------|-------------|-------------|---------|-------|------|----------|
+| <a href="https://www.haskell.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/1/1c/Haskell-Logo.svg" width="65" height="65" alt="Haskell"></a> | Haskell | Pure functional programming language. | [Learn You a Haskell](http://learnyouahaskell.com/) | BSD | ![Badge](https://img.shields.io/badge/Haskell-Functional-purple) | 1990 | Functional |
+| <a href="https://developer.hashicorp.com/terraform/language" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/0/0d/Terraform_Logo.svg" width="65" height="65" alt="HCL"></a> | HCL (HashiCorp Config Language) | Declarative config for Terraform/IaC. | [Terraform Docs](https://developer.hashicorp.com/terraform/tutorials) | MPL 2.0 | ![Badge](https://img.shields.io/badge/HCL-IaC-blue) | 2014 | Declarative |
+| <a href="https://hacklang.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/0/0a/Hack_logo.svg" width="65" height="65" alt="Hack"></a> | Hack | Typed PHP variant by Meta. | [Hack Docs](https://docs.hhvm.com/hack/) | MIT | ![Badge](https://img.shields.io/badge/Hack-PHP--variant-orange) | 2014 | OO |
+| <a href="https://www.w3.org/html/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" width="65" height="65" alt="HTML"></a> | HTML | Standard markup for web pages. | [MDN HTML Guide](https://developer.mozilla.org/en-US/docs/Web/HTML) | W3C | ![Badge](https://img.shields.io/badge/HTML-Web-red) | 1993 | Markup |
+
+---
+
+### J
+
+| Logo | Name | Description | Full Course | License | Badge | Year | Paradigm |
+|------|------|-------------|-------------|---------|-------|------|----------|
+| <a href="https://www.java.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg" width="65" height="65" alt="Java"></a> | Java | Enterprise language for cross‑platform apps. | [Java Programming Masterclass (Udemy)](https://www.udemy.com/course/java-the-complete-java-developer-course/) | Oracle/BSD | ![Badge](https://img.shields.io/badge/Java-Enterprise-red) | 1995 | OO |
+| <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="65" height="65" alt="JavaScript"></a> | JavaScript | Core language of the web. | [Eloquent JavaScript (Book)](https://eloquentjavascript.net/) | ECMA | ![Badge](https://img.shields.io/badge/JavaScript-Web-yellow) | 1995 | Multi‑paradigm |
+| <a href="https://www.json.org/json-en.html" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c9/JSON_vector_logo.svg" width="65" height="65" alt="JSON"></a> | JSON | Lightweight data interchange format. | [JSON Guide](https://www.json.org/json-en.html) | Open | ![Badge](https://img.shields.io/badge/JSON-Data-lightgrey) | 2001 | Data format |
+| <a href="https://julialang.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/9/92/Julia_language_logo.svg" width="65" height="65" alt="Julia"></a> | Julia | High‑performance scientific computing language. | [Julia Academy](https://juliaacademy.com/) | MIT | ![Badge](https://img.shields.io/badge/Julia-Scientific-purple) | 2012 | Multi‑paradigm |
+| <a href="https://jupyter.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" width="65" height="65" alt="Jupyter"></a> | Jupyter Notebook | Interactive notebooks for data science. | [Jupyter Docs](https://docs.jupyter.org/en/latest/) | BSD | ![Badge](https://img.shields.io/badge/Jupyter-DataScience-orange) | 2014 | Notebook |
+
+---
+
+### K
+
+| Logo | Name | Description | Full Course | License | Badge | Year | Paradigm |
+|------|------|-------------|-------------|---------|-------|------|----------|
+| <a href="https://kotlinlang.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/7/74/Kotlin-logo.svg" width="65" height="65" alt="Kotlin"></a> | Kotlin | Modern JVM language for Android. | [Kotlin Bootcamp (Google)](https://developer.android.com/courses/kotlin-bootcamp/overview) | Apache 2.0 | ![Badge](https://img.shields.io/badge/Kotlin-Android-blue) | 2011 | OO |
+| <a href="https://kivy.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Kivy_logo.png" width="65" height="65" alt="Kivy"></a> | Kivy | Python framework for cross‑platform apps. | [Kivy Docs](https://kivy.org/doc/stable/) | MIT | ![Badge](https://img.shields.io/badge/Kivy-CrossPlatform-green) | 2011 | Declarative |
+
+---
+
+### L
+
+| Logo | Name | Description | Full Course | License | Badge | Year | Paradigm |
+|------|------|-------------|-------------|---------|-------|------|----------|
+| <a href="https://www.latex-project.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/9/92/LaTeX_logo.svg" width="65" height="65" alt="LaTeX"></a> | LaTeX | Document preparation system for scientific writing. | [LaTeX Project Docs](https://www.latex-project.org/help/documentation/) | LPPL | ![Badge](https://img.shields.io/badge/LaTeX-Docs-blue) | 1984 | Markup |
+| <a href="https://www.lua.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Lua-Logo.svg" width="65" height="65" alt="Lua"></a> | Lua | Lightweight scripting language for games and embedded systems. | [Programming in Lua (Official Book)](https://www.lua.org/pil/) | MIT | ![Badge](https://img.shields.io/badge/Lua-Embedded-purple) | 1993 | Scripting |
+| <a href="https://lucene.apache.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Lucene_logo.svg" width="65" height="65" alt="Lucene"></a> | Lucene Query DSL | Search engine query language for Apache Lucene. | [Lucene Docs](https://lucene.apache.org/core/) | Apache 2.0 | ![Badge](https://img.shields.io/badge/Lucene-Search-orange) | 1999 | DSL |
+| <a href="https://llvm.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/9/9d/LLVM_logo.svg" width="65" height="65" alt="LLVM"></a> | LLVM IR | Intermediate representation for compiler toolchains. | [LLVM Language Reference](https://llvm.org/docs/LangRef.html) | Apache 2.0 | ![Badge](https://img.shields.io/badge/LLVM-Compiler-grey) | 2000 | IR |
+
+---
+
+### M
+
+| Logo | Name | Description | Full Course | License | Badge | Year | Paradigm |
+|------|------|-------------|-------------|---------|-------|------|----------|
+| <a href="https://matlab.mathworks.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" width="65" height="65" alt="MATLAB"></a> | MATLAB | Engineering and scientific computing language. | [MATLAB Onramp (MathWorks)](https://matlabacademy.mathworks.com/) | Proprietary | ![Badge](https://img.shields.io/badge/MATLAB-Engineering-orange) | 1984 | Numeric |
+| <a href="https://mercurylang.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/2/2c/Mercury_logo.png" width="65" height="65" alt="Mercury"></a> | Mercury | Logic programming language focused on performance. | [Mercury Docs](https://mercurylang.org/documentation.html) | GPL | ![Badge](https://img.shields.io/badge/Mercury-Logic-green) | 1995 | Logic |
+| <a href="https://mojolang.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Mojo_logo.png" width="65" height="65" alt="Mojo"></a> | Mojo | AI‑focused systems programming language. | [Modular Mojo Docs](https://docs.modular.com/mojo/) | Proprietary | ![Badge](https://img.shields.io/badge/Mojo-AI-red) | 2023 | Systems |
+
+---
+
+### N
+
+| Logo | Name | Description | Full Course | License | Badge | Year | Paradigm |
+|------|------|-------------|-------------|---------|-------|------|----------|
+| <a href="https://nim-lang.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/3/3b/Nim-logo.png" width="65" height="65" alt="Nim"></a> | Nim | Fast, expressive compiled language. | [Nim by Example](https://nim-by-example.github.io/) | MIT | ![Badge](https://img.shields.io/badge/Nim-Compiled-teal) | 2008 | Multi‑paradigm |
+| <a href="https://nixos.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Nix_logo.svg" width="65" height="65" alt="Nix"></a> | Nix DSL | Functional language for package management. | [Nix Pills](https://nixos.org/guides/nix-pills/) | LGPL | ![Badge](https://img.shields.io/badge/Nix-PackageManager-blue) | 2003 | Functional DSL |
+
+---
+
+### O
+
+| Logo | Name | Description | Full Course | License | Badge | Year | Paradigm |
+|------|------|-------------|-------------|---------|-------|------|----------|
+| <a href="https://ocaml.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/8/8d/OCaml_logo.svg" width="65" height="65" alt="OCaml"></a> | OCaml | Functional language with strong type inference. | [Real World OCaml](https://dev.realworldocaml.org/) | LGPL | ![Badge](https://img.shields.io/badge/OCaml-Functional-purple) | 1996 | Functional |
+| <a href="https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Objective-C_logo.svg" width="65" height="65" alt="Objective-C"></a> | Objective‑C | Legacy iOS/macOS language. | [Apple Docs: Objective‑C](https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/) | Proprietary | ![Badge](https://img.shields.io/badge/Objective--C-Legacy-grey) | 1984 | OO |
+
+---
+
+### P
+
+| Logo | Name | Description | Full Course | License | Badge | Year | Paradigm |
+|------|------|-------------|-------------|---------|-------|------|----------|
+| <a href="https://www.php.net/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" width="65" height="65" alt="PHP"></a> | PHP | Server‑side scripting for the web. | [PHP Manual + Tutorials](https://www.php.net/manual/en/tutorial.php) | PHP License | ![Badge](https://img.shields.io/badge/PHP-Web-blue) | 1995 | Scripting |
+| <a href="https://www.perl.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/9/9f/Perl_language_logo.svg" width="65" height="65" alt="Perl"></a> | Perl | Text processing and legacy scripting. | [Modern Perl Book](https://modernperlbooks.com/) | Artistic License | ![Badge](https://img.shields.io/badge/Perl-Scripting-green) | 1987 | Scripting |
+| <a href="https://www.postgresql.org/docs/current/sql.html" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" width="65" height="65" alt="SQL"></a> | SQL | Standard language for relational databases. | [SQLBolt Interactive Course](https://sqlbolt.com/) | ISO | ![Badge](https://img.shields.io/badge/SQL-Database-orange) | 1974 | Declarative |
+
+---
+
+### Q
+
+| Logo | Name | Description | Full Course | License | Badge | Year | Paradigm |
+|------|------|-------------|-------------|---------|-------|------|----------|
+| <a href="https://learn.microsoft.com/en-us/azure/quantum/qsharp-overview/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/9/9c/Qsharp_logo.svg" width="65" height="65" alt="Q#"></a> | Q# | Quantum programming language by Microsoft. | [Microsoft Quantum Docs](https://learn.microsoft.com/azure/quantum/qsharp-overview/) | MIT | ![Badge](https://img.shields.io/badge/QSharp-Quantum-purple) | 2017 | Quantum |
+
+---
+
+### R
+
+| Logo | Name | Description | Full Course | License | Badge | Year | Paradigm |
+|------|------|-------------|-------------|---------|-------|------|----------|
+| <a href="https://www.r-project.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/R_logo.svg" width="65" height="65" alt="R"></a> | R | Language for statistics and data visualization. | [R for Data Science (Book)](https://r4ds.had.co.nz/) | GPL | ![Badge](https://img.shields.io/badge/R-Statistics-blue) | 1993 | Functional, Statistical |
+| <a href="https://racket-lang.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/5/5a/Racket-logo.svg" width="65" height="65" alt="Racket"></a> | Racket | Modern Lisp dialect for scripting and teaching. | [Racket Docs](https://docs.racket-lang.org/) | LGPL | ![Badge](https://img.shields.io/badge/Racket-Lisp-green) | 1995 | Functional |
+| <a href="https://red-lang.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Red_logo.png" width="65" height="65" alt="Red"></a> | Red | Successor to Rebol, lightweight scripting. | [Red Docs](https://doc.red-lang.org/) | BSD | ![Badge](https://img.shields.io/badge/Red-Scripting-orange) | 2011 | Multi‑paradigm |
+| <a href="https://rebol.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/0/0a/Rebol_logo.png" width="65" height="65" alt="Rebol"></a> | Rebol | Lightweight messaging and scripting language. | [Rebol Docs](http://www.rebol.com/docs.html) | Proprietary | ![Badge](https://img.shields.io/badge/Rebol-Lightweight-grey) | 1997 | Scripting |
+| <a href="https://www.ruby-lang.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Ruby_logo.svg" width="65" height="65" alt="Ruby"></a> | Ruby | Dynamic language for web apps (Rails). | [The Odin Project: Ruby](https://www.theodinproject.com/paths/full-stack-ruby-on-rails) | BSD | ![Badge](https://img.shields.io/badge/Ruby-Web-red) | 1995 | OO |
+| <a href="https://www.rust-lang.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Rust_programming_language_black_logo.svg" width="65" height="65" alt="Rust"></a> | Rust | Memory‑safe systems programming language. | [Rust Book (Official)](https://doc.rust-lang.org/book/) | MIT/Apache 2.0 | ![Badge](https://img.shields.io/badge/Rust-Systems-orange) | 2010 | Systems |
+
+---
+
+### S
+
+| Logo | Name | Description | Full Course | License | Badge | Year | Paradigm |
+|------|------|-------------|-------------|---------|-------|------|----------|
+| <a href="https://sass-lang.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Sass_Logo_Color.svg" width="65" height="65" alt="Sass"></a> | Sass | CSS preprocessor for styling. | [Sass Docs](https://sass-lang.com/guide) | MIT | ![Badge](https://img.shields.io/badge/Sass-CSS-pink) | 2006 | Preprocessor |
+| <a href="https://www.scala-lang.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/3/39/Scala-full-color.svg" width="65" height="65" alt="Scala"></a> | Scala | JVM language blending OO and functional. | [Scala Docs + Tour](https://docs.scala-lang.org/) | Apache 2.0 | ![Badge](https://img.shields.io/badge/Scala-JVM-red) | 2004 | Functional/OO |
+| <a href="https://www.scheme.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/3/39/Lambda_lisp_logo.svg" width="65" height="65" alt="Scheme"></a> | Scheme | Minimal Lisp dialect. | [Structure and Interpretation of Computer Programs](https://mitpress.mit.edu/sites/default/files/sicp/index.html) | MIT | ![Badge](https://img.shields.io/badge/Scheme-Lisp-green) | 1975 | Functional |
+| <a href="https://www.smalltalk.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Smalltalk_logo.png" width="65" height="65" alt="Smalltalk"></a> | Smalltalk | Pure object‑oriented language. | [Pharo Smalltalk MOOC](https://mooc.pharo.org/) | MIT | ![Badge](https://img.shields.io/badge/Smalltalk-OO-purple) | 1972 | OO |
+| <a href="https://soliditylang.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/9/9f/Solidity_logo.svg" width="65" height="65" alt="Solidity"></a> | Solidity | Smart contract language for Ethereum. | [CryptoZombies Solidity Course](https://cryptozombies.io/) | MIT | ![Badge](https://img.shields.io/badge/Solidity-Blockchain-orange) | 2014 | Smart contracts |
+| <a href="https://svelte.dev/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" width="65" height="65" alt="Svelte"></a> | Svelte | Web framework with compile‑time reactivity. | [Svelte Tutorial (Official)](https://svelte.dev/tutorial) | MIT | ![Badge](https://img.shields.io/badge/Svelte-Web-red) | 2016 | Declarative |
+
+---
+
+### T
+
+| Logo | Name | Description | Full Course | License | Badge | Year | Paradigm |
+|------|------|-------------|-------------|---------|-------|------|----------|
+| <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" width="65" height="65" alt="TypeScript"></a> | TypeScript | Typed superset of JavaScript. | [TypeScript Handbook](https://www.typescriptlang.org/docs/) | Apache 2.0 | ![Badge](https://img.shields.io/badge/TypeScript-Typed-blue) | 2012 | OO |
+| <a href="https://www.tcl-lang.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Tcl_logo.svg" width="65" height="65" alt="Tcl"></a> | Tcl | Scripting language for rapid prototyping. | [Tcl Tutorial](https://www.tcl-lang.org/man/tcl8.6/tutorial/Tcl.html) | BSD | ![Badge](https://img.shields.io/badge/Tcl-Scripting-green) | 1988 | Scripting |
+| <a href="https://toml.io/en/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/TOML_logo.png" width="65" height="65" alt="TOML"></a> | TOML | Minimal config file format. | [TOML Spec](https://toml.io/en/) | MIT | ![Badge](https://img.shields.io/badge/TOML-Config-grey) | 2013 | Data format |
+
+---
+
+### V
+
+| Logo | Name | Description | Full Course | License | Badge | Year | Paradigm |
+|------|------|-------------|-------------|---------|-------|------|----------|
+| <a href="https://vala.dev/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/3/3d/Vala_logo.svg" width="65" height="65" alt="Vala"></a> | Vala | GNOME‑focused language with C#‑like syntax. | [Vala Docs](https://wiki.gnome.org/Projects/Vala) | LGPL | ![Badge](https://img.shields.io/badge/Vala-GNOME-blue) | 2006 | OO |
+| <a href="https://verilog.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/Verilog_logo.svg" width="65" height="65" alt="Verilog"></a> | Verilog | Hardware description language for digital circuits. | [Verilog HDL Tutorial (ASIC World)](https://www.asic-world.com/verilog/tutorial.html) | IEEE | ![Badge](https://img.shields.io/badge/Verilog-HDL-orange) | 1984 | Hardware |
+| <a href="https://vhdl.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/9/9f/VHDL_logo.svg" width="65" height="65" alt="VHDL"></a> | VHDL | Hardware description language for FPGA/ASIC design. | [VHDL Tutorial (VHDLwhiz)](https://vhdlwhiz.com/free-vhdl-tutorial/) | IEEE | ![Badge](https://img.shields.io/badge/VHDL-HDL-purple) | 1985 | Hardware |
+| <a href="https://vlang.io/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/9/9f/V_Programming_Language_logo.svg" width="65" height="65" alt="V"></a> | V | Simple, compiled language inspired by Go and Rust. | [V Docs](https://vlang.io/docs) | MIT | ![Badge](https://img.shields.io/badge/V-Compiled-green) | 2019 | Multi‑paradigm |
+| <a href="https://vyper.readthedocs.io/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/9/9f/Vyper_logo.svg" width="65" height="65" alt="Vyper"></a> | Vyper | Smart contract language for Ethereum, Python‑like. | [Vyper Docs](https://vyper.readthedocs.io/) | Apache 2.0 | ![Badge](https://img.shields.io/badge/Vyper-Blockchain-blue) | 2017 | Smart contracts |
+
+---
+
+### W
+
+| Logo | Name | Description | Full Course | License | Badge | Year | Paradigm |
+|------|------|-------------|-------------|---------|-------|------|----------|
+| <a href="https://webassembly.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/1/1f/WebAssembly_Logo.svg" width="65" height="65" alt="WebAssembly"></a> | WebAssembly (Wasm) | Portable binary instruction format for the web. | [MDN WebAssembly Guide](https://developer.mozilla.org/en-US/docs/WebAssembly) | W3C | ![Badge](https://img.shields.io/badge/Wasm-Web-orange) | 2017 | Low‑level |
+| <a href="https://www.wolfram.com/language/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Wolfram_Language_logo.svg" width="65" height="65" alt="Wolfram"></a> | Wolfram Language | Symbolic language for computation and knowledge. | [Wolfram U Courses](https://www.wolfram.com/wolfram-u/) | Proprietary | ![Badge](https://img.shields.io/badge/Wolfram-Symbolic-red) | 1988 | Symbolic |
+
+---
+
+### X
+
+| Logo | Name | Description | Full Course | License | Badge | Year | Paradigm |
+|------|------|-------------|-------------|---------|-------|------|----------|
+| <a href="https://www.w3.org/XML/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/6/6d/XML_logo.svg" width="65" height="65" alt="XML"></a> | XML | Extensible markup language for structured data. | [W3C XML Tutorial](https://www.w3.org/XML/) | W3C | ![Badge](https://img.shields.io/badge/XML-Data-blue) | 1998 | Markup |
+| <a href="https://www.w3.org/TR/xslt/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/6/6d/XML_logo.svg" width="65" height="65" alt="XSLT"></a> | XSLT | XML stylesheet transformation language. | [W3Schools XSLT Tutorial](https://www.w3schools.com/xml/xsl_intro.asp) | W3C | ![Badge](https://img.shields.io/badge/XSLT-Transform-purple) | 1999 | Declarative |
+
+---
+
+### Y
+
+| Logo | Name | Description | Full Course | License | Badge | Year | Paradigm |
+|------|------|-------------|-------------|---------|-------|------|----------|
+| <a href="https://yaml.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/5/5a/YAML_logo.svg" width="65" height="65" alt="YAML"></a> | YAML | Human‑friendly data serialization format. | [YAML Tutorial](https://yaml.org/spec/) | Open | ![Badge](https://img.shields.io/badge/YAML-Config-lightgrey) | 2001 | Data format |
+
+---
+
+### Z
+
+| Logo | Name | Description | Full Course | License | Badge | Year | Paradigm |
+|------|------|-------------|-------------|---------|-------|------|----------|
+| <a href="https://ziglang.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/5/5a/Zig_logo.svg" width="65" height="65" alt="Zig"></a> | Zig | Low‑level systems programming language focused on safety. | [Zig Learn](https://ziglearn.org/) | MIT | ![Badge](https://img.shields.io/badge/Zig-Systems-orange) | 2016 | Systems |
+
+---
+
+## Bonus
+
+| Logo | Name | Description | Full Course | License | Badge | Year | Paradigm |
+|------|------|-------------|-------------|---------|-------|------|----------|
+| <a href="https://github.github.com/gfm/" target="_blank"><img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="65" height="65" alt="GFM"></a> | GitHub Flavored Markdown (GFM) | Markdown variant tailored for GitHub features. | [GitHub’s GFM Spec](https://github.github.com/gfm/) | MIT | ![Badge](https://img.shields.io/badge/Markdown-GFM-lightgrey) | 2017 | Markup |
+| <a href="https://www.markdownguide.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/4/48/Markdown-mark.svg" width="65" height="65" alt="Markdown"></a> | Markdown | Simple plaintext formatting for docs and README files. | [Markdown Guide (Extended)](https://www.markdownguide.org/) | Various | ![Badge](https://img.shields.io/badge/Markdown-Plaintext-blue) | 2004 | Markup |
+
+---
