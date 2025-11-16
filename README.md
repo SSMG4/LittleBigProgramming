@@ -292,7 +292,7 @@ A playful encyclopedia of programming languages, formats, and related tech with 
 
 | Logo | Name | Description | Full Course | License | Badge | Year | Paradigm |
 |------|------|-------------|-------------|---------|-------|------|----------|
-| <a href="https://ziglang.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/5/5a/Zig_logo.svg" width="65" height="65" alt="Zig"></a> | Zig | Low‑level systems programming language focused on safety. | [Zig Learn](https://ziglearn.org/) | MIT | [![Badge](https://img.shields.io/badge/Zig-F7A41D.svg?logo=zig&logoColor=white)](https://img.shields.io/badge/Zig-F7A41D.svg?logo=zig&logoColor=white) | 2016 | Systems |
+| <a href="https://ziglang.org/" target="_blank"><img src="https://raw.githubusercontent.com/github/explore/b28ef5e65d2d582ab36c30e3e2068721e71625e4/topics/zig/zig.png" width="65" height="65" alt="Zig"></a> | Zig | Low‑level systems programming language focused on safety. | [Zig Learn](https://ziglearn.org/) | MIT | [![Badge](https://img.shields.io/badge/Zig-F7A41D.svg?logo=zig&logoColor=white)](https://img.shields.io/badge/Zig-F7A41D.svg?logo=zig&logoColor=white) | 2016 | Systems |
 
 ---
 
