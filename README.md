@@ -170,6 +170,7 @@ A playful encyclopedia of programming languages, formats, and related tech with 
 
 | Logo | Name | Description | Full Course | License | Badge | Year | Paradigm |
 |------|------|-------------|-------------|---------|-------|------|----------|
+| <a href="https://www.markdownguide.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Markdown-mark.svg/312px-Markdown-mark.svg.png?20190322184628" width="65" height="65" alt="Markdown"></a> | Markdown | Simple plaintext formatting for docs and README files. | [Markdown Guide (Extended)](https://www.markdownguide.org/) | Various | [![Markdown](https://img.shields.io/badge/Markdown-%23000000.svg?logo=markdown&logoColor=white)](https://img.shields.io/badge/Markdown-%23000000.svg?logo=markdown&logoColor=white) | 2004 | Markup |
 | <a href="https://matlab.mathworks.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" width="65" height="65" alt="MATLAB"></a> | MATLAB | Engineering and scientific computing language. | [MATLAB Onramp (MathWorks)](https://matlabacademy.mathworks.com/) | Proprietary | ![Badge](https://img.shields.io/badge/MATLAB-Engineering-orange) | 1984 | Numeric |
 | <a href="https://mercurylang.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/2/2c/Mercury_logo.png" width="65" height="65" alt="Mercury"></a> | Mercury | Logic programming language focused on performance. | [Mercury Docs](https://mercurylang.org/documentation.html) | GPL | ![Badge](https://img.shields.io/badge/Mercury-Logic-green) | 1995 | Logic |
 | <a href="https://mojolang.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Mojo_logo.png" width="65" height="65" alt="Mojo"></a> | Mojo | AI‑focused systems programming language. | [Modular Mojo Docs](https://docs.modular.com/mojo/) | Proprietary | ![Badge](https://img.shields.io/badge/Mojo-AI-red) | 2023 | Systems |
@@ -274,7 +275,7 @@ A playful encyclopedia of programming languages, formats, and related tech with 
 
 | Logo | Name | Description | Full Course | License | Badge | Year | Paradigm |
 |------|------|-------------|-------------|---------|-------|------|----------|
-| <a href="https://www.w3.org/XML/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/6/6d/XML_logo.svg" width="65" height="65" alt="XML"></a> | XML | Extensible markup language for structured data. | [W3C XML Tutorial](https://www.w3.org/XML/) | W3C | ![Badge](https://img.shields.io/badge/XML-Data-blue) | 1998 | Markup |
+| <a href="https://www.w3.org/XML/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Extensible_Markup_Language_%28XML%29_logo.svg/185px-Extensible_Markup_Language_%28XML%29_logo.svg.png?20210521173600" width="65" height="65" alt="XML"></a> | XML | Extensible markup language for structured data. | [W3C XML Tutorial](https://www.w3.org/XML/) | W3C | [![XML](https://img.shields.io/badge/XML-767C52?logo=xml&logoColor=fff)](https://img.shields.io/badge/XML-767C52?logo=xml&logoColor=fff) | 1998 | Markup |
 | <a href="https://www.w3.org/TR/xslt/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/6/6d/XML_logo.svg" width="65" height="65" alt="XSLT"></a> | XSLT | XML stylesheet transformation language. | [W3Schools XSLT Tutorial](https://www.w3schools.com/xml/xsl_intro.asp) | W3C | ![Badge](https://img.shields.io/badge/XSLT-Transform-purple) | 1999 | Declarative |
 
 ---
@@ -283,7 +284,7 @@ A playful encyclopedia of programming languages, formats, and related tech with 
 
 | Logo | Name | Description | Full Course | License | Badge | Year | Paradigm |
 |------|------|-------------|-------------|---------|-------|------|----------|
-| <a href="https://yaml.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/5/5a/YAML_logo.svg" width="65" height="65" alt="YAML"></a> | YAML | Human‑friendly data serialization format. | [YAML Tutorial](https://yaml.org/spec/) | Open | ![Badge](https://img.shields.io/badge/YAML-Config-lightgrey) | 2001 | Data format |
+| <a href="https://yaml.org/" target="_blank"><img src="https://avatars.githubusercontent.com/u/69535?s=200&v=4" width="65" height="65" alt="YAML"></a> | YAML | Human‑friendly data serialization format. | [YAML Tutorial](https://yaml.org/spec/) | Open | [![YAML](https://img.shields.io/badge/YAML-CB171E?logo=yaml&logoColor=fff)](https://img.shields.io/badge/YAML-CB171E?logo=yaml&logoColor=fff) | 2001 | Data format |
 
 ---
 
@@ -300,6 +301,5 @@ A playful encyclopedia of programming languages, formats, and related tech with 
 | Logo | Name | Description | Full Course | License | Badge | Year | Paradigm |
 |------|------|-------------|-------------|---------|-------|------|----------|
 | <a href="https://github.github.com/gfm/" target="_blank"><img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="65" height="65" alt="GFM"></a> | GitHub Flavored Markdown (GFM) | Markdown variant tailored for GitHub features. | [GitHub’s GFM Spec](https://github.github.com/gfm/) | MIT | ![Badge](https://img.shields.io/badge/Markdown-GFM-lightgrey) | 2017 | Markup |
-| <a href="https://www.markdownguide.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/4/48/Markdown-mark.svg" width="65" height="65" alt="Markdown"></a> | Markdown | Simple plaintext formatting for docs and README files. | [Markdown Guide (Extended)](https://www.markdownguide.org/) | Various | ![Badge](https://img.shields.io/badge/Markdown-Plaintext-blue) | 2004 | Markup |
 
 ---
