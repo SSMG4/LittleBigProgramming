@@ -208,7 +208,7 @@ A playful encyclopedia of programming languages, formats, and related tech with 
 
 | Logo | Name | Description | Full Course | License | Badge | Year | Paradigm |
 |------|------|-------------|-------------|---------|-------|------|----------|
-| <a href="https://learn.microsoft.com/en-us/azure/quantum/qsharp-overview/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/9/9c/Qsharp_logo.svg" width="65" height="65" alt="Q#"></a> | Q# | Quantum programming language by Microsoft. | [Microsoft Quantum Docs](https://learn.microsoft.com/azure/quantum/qsharp-overview/) | MIT | ![Badge](https://img.shields.io/badge/QSharp-Quantum-purple) | 2017 | Quantum |
+| <a href="https://learn.microsoft.com/en-us/azure/quantum/qsharp-overview/" target="_blank"><img src="https://user-images.githubusercontent.com/10490540/74080975-2ee5d300-4a0f-11ea-98c0-90d3e363ab58.png" width="65" height="65" alt="Q#"></a> | Q# | Quantum programming language by Microsoft. | [Microsoft Quantum Docs](https://learn.microsoft.com/azure/quantum/qsharp-overview/) | MIT | ![Badge](https://img.shields.io/badge/QSharp-Quantum-purple) | 2017 | Quantum |
 
 ---
 
