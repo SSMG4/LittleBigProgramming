@@ -267,7 +267,7 @@ A playful encyclopedia of programming languages, formats, and related tech with 
 | Logo | Name | Description | Full Course | License | Badge | Year | Paradigm |
 |------|------|-------------|-------------|---------|-------|------|----------|
 | <a href="https://webassembly.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/1/1f/WebAssembly_Logo.svg" width="65" height="65" alt="WebAssembly"></a> | WebAssembly (WASM) | Portable binary instruction format for the web. | [MDN WebAssembly Guide](https://developer.mozilla.org/en-US/docs/WebAssembly) | W3C | [![WebAssembly](https://img.shields.io/badge/WebAssembly-654FF0?logo=webassembly&logoColor=fff)](https://img.shields.io/badge/WebAssembly-654FF0?logo=webassembly&logoColor=fff) | 2017 | Low‑level |
-| <a href="https://www.wolfram.com/language/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Wolfram_Language_logo.svg" width="65" height="65" alt="Wolfram"></a> | Wolfram Language | Symbolic language for computation and knowledge. | [Wolfram U Courses](https://www.wolfram.com/wolfram-u/) | Proprietary | ![Badge](https://img.shields.io/badge/Wolfram-Symbolic-red) | 1988 | Symbolic |
+| <a href="https://www.wolfram.com/language/" target="_blank"><img src="https://www.wolfram.com/language/img/overview/wolf-logo.png" width="65" height="65" alt="Wolfram"></a> | Wolfram Language | Symbolic language for computation and knowledge. | [Wolfram U Courses](https://www.wolfram.com/wolfram-u/) | Proprietary | [![Wolfram](https://img.shields.io/badge/Wolfram-DD1100.svg?logo=wolframlanguage&logoColor=white)](https://img.shields.io/badge/Wolfram-DD1100.svg?logo=wolframlanguage&logoColor=white) | 1988 | Symbolic |
 
 ---
 
