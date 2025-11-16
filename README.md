@@ -2,6 +2,9 @@
 
 A playful encyclopedia of programming languages, formats, and related tech with detailed info as well as full courses included for free! (title inspired by LittleBigPlanet™.)
 
+>![WARNING]
+>This project is still in early developement and is constantly being developed! If you like what i do and would like to contribute or help out, make issues or PRs to alert me of anything wrong with the project, this would make things much easier to maintain on my side (:
+
 ---
 
 ## Summary
@@ -29,7 +32,7 @@ A playful encyclopedia of programming languages, formats, and related tech with 
     - [R](#r)
     - [S](#s)
     - [T](#t)
-    - [U](#u)
+    - [U](#u) [No entries yet]
     - [V](#v)
     - [W](#w)
     - [X](#x)
