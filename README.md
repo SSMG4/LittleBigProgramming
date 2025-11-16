@@ -245,7 +245,7 @@ A playful encyclopedia of programming languages, formats, and related tech with 
 |------|------|-------------|-------------|---------|-------|------|----------|
 | <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" width="65" height="65" alt="TypeScript"></a> | TypeScript | Typed superset of JavaScript. | [TypeScript Handbook](https://www.typescriptlang.org/docs/) | Apache 2.0 | [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff) | 2012 | OO |
 | <a href="https://www.tcl-lang.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Tcl_logo.svg" width="65" height="65" alt="Tcl"></a> | Tcl | Scripting language for rapid prototyping. | [Tcl Tutorial](https://www.tcl-lang.org/man/tcl8.6/tutorial/Tcl.html) | BSD | ![Badge](https://img.shields.io/badge/Tcl-Scripting-green) | 1988 | Scripting |
-| <a href="https://toml.io/en/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/TOML_logo.png" width="65" height="65" alt="TOML"></a> | TOML | Minimal config file format. | [TOML Spec](https://toml.io/en/) | MIT | ![Badge](https://img.shields.io/badge/TOML-Config-grey) | 2013 | Data format |
+| <a href="https://toml.io/en/" target="_blank"><img src="https://avatars.githubusercontent.com/u/7966854?s=200&v=4" width="65" height="65" alt="TOML"></a> | TOML | Minimal config file format. | [TOML Spec](https://toml.io/en/) | MIT | [![TOML](https://img.shields.io/badge/TOML-9C4121?logo=toml&logoColor=fff)](https://img.shields.io/badge/TOML-9C4121?logo=toml&logoColor=fff) | 2013 | Data format |
 
 ---
 
