@@ -7,10 +7,10 @@ A playful encyclopedia of programming languages, formats, and related tech with 
 
 ---
 
-## Summary
+## Index
 
 - [LittleBigProgramming](#littlebigprogramming)
-  - [Summary](#summary)
+  - [Index](#index)
   - [Languages](#languages)
     - [A](#a)
     - [B](#b)
@@ -53,7 +53,7 @@ A playful encyclopedia of programming languages, formats, and related tech with 
 | <a href="https://aws.amazon.com/architecture/whitepapers/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Gnu-logo.svg" width="65" height="65" alt="Awk"></a> | Awk | Text scanning and reporting on Unix streams. | [Effective Awk Programming (GNU)](https://www.gnu.org/software/awk/manual/) | GPL | ![Awk](https://img.shields.io/badge/Awk-Text%20processing-green) | 1977 | Scripting |
 | <a href="https://www.apple.com/swift/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/9/9d/Swift_logo.svg" width="65" height="65" alt="Swift"></a> | Apple Swift | Modern language for iOS and macOS apps. | [Hacking with Swift (100 Days)](https://www.hackingwithswift.com/100) | Apache 2.0 | [![Apple Swift](https://img.shields.io/badge/Swift-F54A2A?logo=swift&logoColor=white)](https://img.shields.io/badge/Swift-F54A2A?logo=swift&logoColor=white) | 2014 | Multi‑paradigm |
 | <a href="https://www.arduino.cc/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Arduino_Logo.svg" width="65" height="65" alt="Arduino"></a> | Arduino (C/C++) | Simplified C/C++ for microcontrollers. | [Arduino Courses (Official)](https://www.arduino.cc/education) | GPL/LGPL (cores) | [![Arduino](https://img.shields.io/badge/Arduino-00878F.svg?logo=arduino&logoColor=white)](https://img.shields.io/badge/Arduino-00878F.svg?logo=arduino&logoColor=white) | 2005 | Procedural |
-| <a href="https://en.wikipedia.org/wiki/Assembly_language" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Computer_icon_assembly.png" width="65" height="65" alt="Assembly"></a> | Assembly | Low‑level language that directly maps to machine instructions. | [PC Assembly Language (Free Book)](https://pacman128.github.io/pcasm/) | Varies (architecture‑specific) | ![Assembly](https://img.shields.io/badge/Assembly-LowLevel-red) | 1949 | Low‑level, Procedural |
+| <a href="https://github.com/SSMG4/LittleBigProgramming/blob/master/ASSEMBLY.md" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Computer_icon_assembly.png" width="65" height="65" alt="Assembly"></a> | Assembly | Low‑level language that directly maps to machine instructions. | [PC Assembly Language (Free Book)](https://pacman128.github.io/pcasm/) | Varies (architecture‑specific) | ![Assembly](https://img.shields.io/badge/Assembly-LowLevel-red) | 1949 | Low‑level, Procedural |
 
 ---
 
@@ -306,3 +306,5 @@ A playful encyclopedia of programming languages, formats, and related tech with 
 | <a href="https://github.github.com/gfm/" target="_blank"><img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="65" height="65" alt="GFM"></a> | GitHub Flavored Markdown (GFM) | Markdown variant tailored for GitHub features. | [GitHub’s GFM Spec](https://github.github.com/gfm/) | MIT | ![Badge](https://img.shields.io/badge/Markdown-GFM-lightgrey) | 2017 | Markup |
 
 ---
+
+>2025 SSMG4. This project is license-free. If you plan on doing anything with it, please, just credit it.
